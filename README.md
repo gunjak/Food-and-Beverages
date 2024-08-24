@@ -1,4 +1,4 @@
-# Food-Beverages-Services-Opportunity-Analysis-using-Power-BI
+# Food-Beverages-Services Analysis
 Created Interactive Dashboard of Food & Beverages Services (Opportunity Analysis of a Major Food and Beverage Manufacturer)
 
 ## **Project Objective**
